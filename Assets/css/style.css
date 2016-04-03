@@ -1,4 +1,39 @@
-<style type="text/css">
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #ffffff;
+	font-size: 18px;
+	line-height: 150%;
+	font-family: "Georgia",Times,Times New Roman,serif;
+	color: #7777777;
+}
+
+.container {
+	width: 1024px;
+
+}
+
+#box {background: #4aaaa5;
+	height: 150px;
+	width: 400px;
+	margin: 0;
+	color: white;
+	font-size: 28px;
+    float: left;
+    width: 30%;
+
+
+  }
+
+#menu {float: right;
+  		width: 70%;
+  		}
+
+
+
+.MainContent {background: blue;}
+
 
 
 p {color: #777777;}
@@ -7,4 +42,4 @@ p {color: #777777;}
 
 h2 {color: #4aaaa5}
 
-</style>
+  color: white;
