@@ -9,8 +9,8 @@ body {
 	color: #7777777;
 }
 
-#header {background: #ffffff;
-	border: 1px solid #cccccc;
+#header {background: blue;
+	
 	width: 960px;
 	
 }
@@ -48,17 +48,30 @@ body {
 
 #main {width: 650px;
 		margin left: 50px;
+		border: 1px solid red;
 		}
 
-#sidebar {width: 270px;}
+#sidebar {width: 270px;
+		border: 1px solid red;}
+
+#socialmedia {}
+			
+#image {margin-left: 60px;
+		}
+
+p {color: #777777;
+	display: inline;
+	float: left;
+	}
 
 
-p {color: #777777;}
 
+h2 {color: #4aaaa5;
+	margin-left: 60px;}
 
-
-h2 {color: #4aaaa5}
-
+h3 {color: #4aaaa5;
+	text-align: center;
+}
 
 footer {background: #666666;
  		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
